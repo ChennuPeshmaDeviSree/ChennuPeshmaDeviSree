@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Peshma Devi Sree Chennu
 
-<!--
-**ChennuPeshmaDeviSree/ChennuPeshmaDeviSree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE - CS Student  
+💻 Interested in Machine Learning & Web Development  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔹 Fake Currency Detection (ML)
+- 🔹 Complaint Registry System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- HTML, CSS
+- SQL
+
+## 📫 Contact
+- Email: peshmachennu4@gmail.com
