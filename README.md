@@ -4,8 +4,8 @@
 💻 Interested in Machine Learning & Web Development  
 
 ## 🚀 Projects
-- 🔹 Fake Currency Detection (ML)
-- 🔹 Complaint Registry System
+- 🔹 [Fake Currency Detection (ML)](https://github.com/ChennuPeshmaDeviSree/ml-fake-currency-detector)
+- 🔹 [Complaint Registry System](https://github.com/ChennuPeshmaDeviSree/complaint-registry)
 
 ## 🛠 Skills
 - Python
