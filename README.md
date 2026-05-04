@@ -5,6 +5,7 @@
 
 ## 🚀 Projects
 Here are some of my key projects:
+
 🔹 [Fake Currency Detection (ML)](https://github.com/ChennuPeshmaDeviSree/ml-fake-currency-detector)
   → Detects fake banknotes using machine learning algorithms
   
