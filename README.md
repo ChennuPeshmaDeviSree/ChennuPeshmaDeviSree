@@ -11,7 +11,7 @@ Here are some of my key projects:
   - Detects fake banknotes using machine learning algorithms
 
 - 🔹[Complaint Registry System](https://github.com/ChennuPeshmaDeviSree/complaint-registry)
-- 
+  
   - Web application to register and manage user complaints
 
 - ## 🛠 Skills
