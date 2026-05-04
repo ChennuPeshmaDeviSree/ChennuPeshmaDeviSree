@@ -5,13 +5,17 @@
 
 ## 🚀 Projects
 Here are some of my key projects:
-- 🔹 [Fake Currency Detection (ML)](https://github.com/ChennuPeshmaDeviSree/ml-fake-currency-detector)
-- 🔹 [Complaint Registry System](https://github.com/ChennuPeshmaDeviSree/complaint-registry)
+🔹 [Fake Currency Detection (ML)](https://github.com/ChennuPeshmaDeviSree/ml-fake-currency-detector)
+  → Detects fake banknotes using machine learning algorithms
+  
+🔹 [Complaint Registry System](https://github.com/ChennuPeshmaDeviSree/complaint-registry)
+  → Web application to register and manage user complaints
 
-## 🛠 Skills
+- ## 🛠 Skills
 - Python
-- HTML, CSS
+- HTML, CSS, JavaScript
 - SQL
+- Machine Learning (Basics)
 
 ## 📫 Contact
 - Email: peshmachennu4@gmail.com
